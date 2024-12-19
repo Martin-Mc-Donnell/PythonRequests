@@ -7,4 +7,4 @@ with urllib.request.urlopen("https://raw.githubusercontent.com/datasets/geo-boun
     
     # Extracting country names
     country_names = [feature['properties']['name'] for feature in data['features']]
-    print(len(country_names))
+    print(country_names)
