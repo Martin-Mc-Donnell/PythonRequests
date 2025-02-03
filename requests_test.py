@@ -1,6 +1,6 @@
 import requests
 
-res = requests.get('https://martin-mc-donnell.github.io/chasingdowngame.html')
+res = requests.get('https://martin-mc-donnell.github.io/chasing-down-game.html')
 try:
     res.raise_for_status()
 except Exception as exc:
