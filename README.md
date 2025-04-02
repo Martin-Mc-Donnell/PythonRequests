@@ -2,7 +2,7 @@
 
 ## requests_test.py
 
-This script fetches the first 250 characters of the HTML code from my website (<https://martin-mc-donnell.github.io/chasing-down-game.html>).
+This script fetches the HTML code from my website (<https://martin-mc-donnell.github.io/chasing-down-game.html>).
 
 ---
 

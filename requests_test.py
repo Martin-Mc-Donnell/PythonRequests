@@ -6,4 +6,4 @@ try:
 except Exception as exc:
     print('There was a problem: %s' % (exc))
 print(len(res.text))
-print(res.text[:250])
+print(res.text)
